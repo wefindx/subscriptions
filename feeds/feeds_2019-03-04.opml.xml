@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 04 Mar 2019 20:09:03</dateCreated>
+    <dateCreated>Tue, 05 Mar 2019 04:13:25</dateCreated>
   </head>
   <body>
     <outline text="Cooperation">
@@ -20,6 +20,9 @@
       <outline text="FQXi Community" type="rss" xmlUrl="https://fqxi.org/rss.php" htmlUrl="https://fqxi.org/community/" description="Blogs, articles, and podcasts from science writers at the Foundational Questions Institute"/>
       <outline text="Halfbakery: recent 3" type="rss" xmlUrl="http://www.halfbakery.com/view/ftm=r1382400:fxc=230:s=dQ:d=diw:dh=1:dn=3:ds=A:n=overview:i=for_20major_20categories_2e_20_20_3ccreated_3e_3cu_3e_3cbr_3e_0d_0a_3cchanged_3e_3c_2fu_3e:t=recent_203" htmlUrl="https://www.halfbakery.com/view/ftm=r1382400:fxc=230:s=dQ:d=diw:dh=1:dn=3:ds=A:n=overview:i=for_20major_20categories_2e_20_20_3ccreated_3e_3cu_3e_3cbr_3e_0d_0a_3cchanged_3e_3c_2fu_3e:t=recent_203?op=editview" description="for major categories.  &lt;created&gt;&lt;u&gt;&lt;br&gt;&lt;changed&gt;&lt;/changed&gt;&lt;/u&gt;&lt;/created&gt;&#10;"/>
       <outline text="Nautilus" type="rss" xmlUrl="http://nautil.us/rss/all" htmlUrl="http://nautil.us/rss/all" description="Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Read a new chapter in the story every Thursday."/>
+    </outline>
+    <outline text="Internal">
+      <outline text="WeFindX" type="rss" xmlUrl="https://wefindx.org/rss/" htmlUrl="https://wefindx.org/" description="Thoughts on Global Goals"/>
     </outline>
     <outline text="Technology">
       <outline text="AI Alignment Forum" type="rss" xmlUrl="https://www.alignmentforum.org/feed.xml" htmlUrl="https://www.alignmentforum.org/" description="A community blog devoted to technical AI alignment research"/>
