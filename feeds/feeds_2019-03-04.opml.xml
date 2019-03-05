@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Mon, 04 Mar 2019 20:09:03</dateCreated>
+  </head>
+  <body>
+    <outline text="Cooperation">
+      <outline text="Comments on: Instagram Feeds Moderation" type="rss" xmlUrl="https://casefoundation.org/instagram-feeds-moderation/feed/" htmlUrl="https://casefoundation.org/" description=""/>
+      <outline text="English – The Conversation" type="rss" xmlUrl="https://theconversation.com/articles.atom?language=en" htmlUrl="https://theconversation.com/" description=""/>
+      <outline text="Home - Home Page" type="rss" xmlUrl="http://www.oecd.org/index.xml" htmlUrl="http://www.oecd.org/" description="www.oecd.org"/>
+      <outline text="Omidyar Network" type="rss" xmlUrl="https://www.omidyar.com/rss.xml" htmlUrl="https://www.omidyar.com/rss.xml" description=""/>
+      <outline text="Skoll.org" type="rss" xmlUrl="http://skoll.org/feed/" htmlUrl="http://skoll.org/" description="Accelerating entrepreneurial approaches and innovative solutions to the world's most pressing problems"/>
+      <outline text="UN Audiovisual Library - Full Catalogue" type="rss" xmlUrl="https://www.unmultimedia.org/avlibrary/rss.xml" htmlUrl="https://www.unmultimedia.org/avlibrary/" description="The Audiovisual Library's mission is to provide access to and preserve the audiovisual archives from over 70 years of the history of the Organization. The AV Library makes the audio, film and video collections widely accessible to UN Offices, UN Family Organizations, professional media organizations, broadcasters, independent producers, governments, institutions and non-governmental organizations, researchers and civil society at large. We also aim to support audiovisual productions and foster public understanding of the United Nations and its goals by providing customer services and audiovisual materials in a timely and efficient manner to professional clients around the world."/>
+      <outline text="World Bank Search - NEWS" type="rss" xmlUrl="http://search.worldbank.org/api/v2/news.atom?admreg_exact=East+Asia+and+Pacific" htmlUrl="http://search.worldbank.org/" description=""/>
+    </outline>
+    <outline text="Humanity">
+      <outline text="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co/" description="Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all."/>
+      <outline text="Effective Altruism Forum" type="rss" xmlUrl="https://forum.effectivealtruism.org/feed.xml" htmlUrl="https://forum.effectivealtruism.org/" description="Effective Altruism research, discussion and community updates"/>
+      <outline text="FQXi Community" type="rss" xmlUrl="https://fqxi.org/rss.php" htmlUrl="https://fqxi.org/community/" description="Blogs, articles, and podcasts from science writers at the Foundational Questions Institute"/>
+      <outline text="Halfbakery: recent 3" type="rss" xmlUrl="http://www.halfbakery.com/view/ftm=r1382400:fxc=230:s=dQ:d=diw:dh=1:dn=3:ds=A:n=overview:i=for_20major_20categories_2e_20_20_3ccreated_3e_3cu_3e_3cbr_3e_0d_0a_3cchanged_3e_3c_2fu_3e:t=recent_203" htmlUrl="https://www.halfbakery.com/view/ftm=r1382400:fxc=230:s=dQ:d=diw:dh=1:dn=3:ds=A:n=overview:i=for_20major_20categories_2e_20_20_3ccreated_3e_3cu_3e_3cbr_3e_0d_0a_3cchanged_3e_3c_2fu_3e:t=recent_203?op=editview" description="for major categories.  &lt;created&gt;&lt;u&gt;&lt;br&gt;&lt;changed&gt;&lt;/changed&gt;&lt;/u&gt;&lt;/created&gt;&#10;"/>
+      <outline text="Nautilus" type="rss" xmlUrl="http://nautil.us/rss/all" htmlUrl="http://nautil.us/rss/all" description="Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Read a new chapter in the story every Thursday."/>
+    </outline>
+    <outline text="Technology">
+      <outline text="AI Alignment Forum" type="rss" xmlUrl="https://www.alignmentforum.org/feed.xml" htmlUrl="https://www.alignmentforum.org/" description="A community blog devoted to technical AI alignment research"/>
+      <outline text="CFAR | Center For Applied Rationality" type="rss" xmlUrl="http://www.rationality.org/feed.xml" htmlUrl="http://www.rationality.org/" description="Developing clear thinking for the sake of humanity’s future"/>
+      <outline text="Everything List" type="rss" xmlUrl="https://groups.google.com/forum/feed/everything-list/topics/rss_v2_0.xml?num=50" htmlUrl="https://groups.google.com/d/forum/everything-list" description="A mailing list for discussion of the idea that all possible universes exist. Please visit &lt;a href=&quot;http://www.weidai.com/everything.html&quot;&gt;http://www.weidai.com/everything.html&lt;/a&gt; for more information."/>
+      <outline text="Future of Humanity Institute" type="rss" xmlUrl="https://www.fhi.ox.ac.uk/feed/" htmlUrl="https://www.fhi.ox.ac.uk/" description="University of Oxford"/>
+      <outline text="Future of Life Institute" type="rss" xmlUrl="https://futureoflife.org/feed/" htmlUrl="https://futureoflife.org/" description="Technology is giving life the opportunity to flourish like never before... or to self-destruct."/>
+      <outline text="Kurzweil" type="rss" xmlUrl="http://www.kurzweilai.net/feed" htmlUrl="http://www.kurzweilai.net/" description="accelerating intelligence"/>
+      <outline text="LessWrong" type="rss" xmlUrl="https://www.lesswrong.com/feed.xml" htmlUrl="https://www.lesswrong.com/" description="A community blog devoted to refining the art of rationality"/>
+      <outline text="Long Now: Seminars About Long-term Thinking" type="rss" xmlUrl="http://longnow.org/projects/seminars/SALT.xml" htmlUrl="http://longnow.org/" description="Explore hundreds of lectures by scientists, historians, artists, entrepreneurs, and more through The Long Now Foundation's award-winning lecture series, curated and hosted by Long Now co-founder Stewart Brand (creator of the Whole Earth Catalog). Recorded live in San Francisco each month since 02003, past speakers include Brian Eno, Neil Gaiman, Sylvia Earle, Daniel Kahneman, Jennifer Pahlka, Steven Johnson, and many more. Watch video of these talks and learn more about our projects at Longnow.org. The Long Now Foundation is a non-profit dedicated to fostering long-term thinking and responsibility."/>
+      <outline text="New on MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/stories.rss" htmlUrl="https://www.technologyreview.com/" description=""/>
+      <outline text="OpenAI Blog" type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/" description="OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence."/>
+      <outline text="Singularity Hub" type="rss" xmlUrl="https://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/" description="News and Insights on Technology, Science, and the Future from Singularity University"/>
+      <outline text="SingularityNET" type="rss" xmlUrl="https://singularitynet.io/feed/" htmlUrl="https://singularitynet.io/" description=""/>
+      <outline text="Techonomy" type="rss" xmlUrl="https://techonomy.com/feed/" htmlUrl="https://techonomy.com/" description=""/>
+    </outline>
+  </body>
+</opml>
