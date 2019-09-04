@@ -38,6 +38,7 @@
       <outline text="Singularity Hub" type="rss" xmlUrl="https://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/" description="News and Insights on Technology, Science, and the Future from Singularity University"/>
       <outline text="SingularityNET" type="rss" xmlUrl="https://singularitynet.io/feed/" htmlUrl="https://singularitynet.io/" description=""/>
       <outline text="Techonomy" type="rss" xmlUrl="https://techonomy.com/feed/" htmlUrl="https://techonomy.com/" description=""/>
+      <outline text="BAAI" type="rss" xmlUrl="https://www.baai.ac.cn/blog/feed.xml" htmlUrl="https://www.baai.ac.cn/" description=""/>
     </outline>
   </body>
 </opml>
